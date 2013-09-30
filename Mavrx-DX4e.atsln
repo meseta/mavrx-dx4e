@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Mavrx-DX4e", "Mavrx-DX4e\Mavrx-DX4e.cproj", "{AF6BB66C-F044-43F1-A773-8D3166934BA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF6BB66C-F044-43F1-A773-8D3166934BA5}.Debug|AVR.ActiveCfg = Debug|AVR
+		{AF6BB66C-F044-43F1-A773-8D3166934BA5}.Debug|AVR.Build.0 = Debug|AVR
+		{AF6BB66C-F044-43F1-A773-8D3166934BA5}.Release|AVR.ActiveCfg = Release|AVR
+		{AF6BB66C-F044-43F1-A773-8D3166934BA5}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
